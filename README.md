@@ -4,8 +4,8 @@
 
 Este repositorio documenta el **Diseño Eléctrico y Físico (Layout) Top-Down** de un comparador iterativo descendente de 4 bits. El proyecto abarca desde la derivación teórica de las ecuaciones lógicas hasta su implementación física lista para fabricación en silicio, utilizando **Cadence DFWII**.
 
-![Layout del Comparador](imagenes/layout.png)
-*(Nota: Asegúrate de colocar la captura de tu layout en una carpeta llamada `imagenes` y nombrarla `layout.png`)*
+<img width="1012" height="326" alt="image" src="https://github.com/user-attachments/assets/7cfe5855-694f-4d71-bf55-c3939a18a5ba" />
+
 
 ## Especificaciones Técnicas
 
