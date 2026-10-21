@@ -1,1 +1,0 @@
-# Comparador-Iterativo-Binario-cadence
